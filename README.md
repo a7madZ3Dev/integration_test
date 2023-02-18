@@ -8,7 +8,7 @@ A new Flutter project. Used for training on integration tests using code magic a
 <img alt="png" src="Preview/Presentation_Preview.png"  />
 
 ## 🎥 Promo Video
-<img alt="GIF" src="Preview/integration_test_demo.gif" width= "180" />
+<img alt="GIF" src="Preview/integration_test_demo.gif" width= "300" />
 
 <br>
 
