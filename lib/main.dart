@@ -9,6 +9,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Typing App',
+      debugShowCheckedModeBanner: false,
       home: TypingPage(),
     );
   }

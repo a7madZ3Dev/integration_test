@@ -1,14 +1,7 @@
-# integration_testing
+## Size Config
 
-A new Flutter project. Used for training on integration tests using code magic and firebase. 
-
-<br>
-
-## 📱 Screen Shots
-<img alt="png" src="Preview/Presentation_Preview.png" width= "920", height="720" />
-
-## 🎥 Promo Video
-<img alt="GIF" src="Preview/integration_test_demo.gif" height="180" />
+A new Flutter project. used To achieve a responsive screen with all sizes,
+a straightforward class is utilized to regulate screen sizes.
 
 <br>
 
