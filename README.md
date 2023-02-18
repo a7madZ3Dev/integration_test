@@ -1,4 +1,4 @@
-# integration_testing
+# integration_testing 👨‍🏫
 
 A new Flutter project. Used for training on integration tests using code magic and firebase. 
 
