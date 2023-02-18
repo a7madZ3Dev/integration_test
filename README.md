@@ -5,10 +5,10 @@ A new Flutter project. Used for training on integration tests using code magic a
 <br>
 
 ## 📱 Screen Shots
-<img alt="png" src="Preview/Presentation_Preview.png" width= "920", height="720" />
+<img alt="png" src="Preview/Presentation_Preview.png"  />
 
 ## 🎥 Promo Video
-<img alt="GIF" src="Preview/integration_test_demo.gif" height="180" />
+<img alt="GIF" src="Preview/integration_test_demo.gif" width= "180", height="300" />
 
 <br>
 
