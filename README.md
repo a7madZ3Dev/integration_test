@@ -5,7 +5,7 @@ A new Flutter project. Used for training on integration tests using code magic a
 <br>
 
 ## 📱 Screen Shots
-<img alt="png" src="Preview/Presentation_Preview.png"  />
+<img alt="png" src="Preview/Presentation_Preview.png" width= "700" />
 
 ## 🎥 Promo Video
 <img alt="GIF" src="Preview/integration_test_demo.gif" width= "300" />
